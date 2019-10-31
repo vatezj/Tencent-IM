@@ -1,5 +1,5 @@
 {
-    "name": "hualex/tenxun-im",
+    "name": "hualex/Tencent-IM",
     "description": "腾讯云通信服务端api",
     "license": "MIT",
     "authors": [
@@ -15,7 +15,7 @@
     },
     "autoload":{
         "psr-4":{
-            "Hualex\\TenxunIm\\":"src/"
+            "Hualex\\TencentIM\\":"src/"
         }
     }
 }
