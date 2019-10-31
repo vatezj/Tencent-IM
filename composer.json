@@ -1,5 +1,5 @@
 {
-    "name": "hxc/im",
+    "name": "hualex/tenxun-im",
     "description": "TP5+腾讯云通信服务端api",
     "license": "MIT",
     "authors": [
@@ -15,7 +15,7 @@
     },
     "autoload":{
         "psr-4":{
-            "HXC\\":"src/"
+            "Hualex\\TenxunIm\\":"src/"
         }
     }
 }
