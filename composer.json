@@ -1,11 +1,11 @@
 {
     "name": "hualex/tenxun-im",
-    "description": "TP5+腾讯云通信服务端api",
+    "description": "腾讯云通信服务端api",
     "license": "MIT",
     "authors": [
         {
-            "name": "hxc",
-            "email": "3365997294@qq.com"
+            "name": "hualex",
+            "email": "vate96@foxmail.com"
         }
     ],
     "minimum-stability": "dev",
